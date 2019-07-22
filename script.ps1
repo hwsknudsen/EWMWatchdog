@@ -1,3 +1,5 @@
+Start-Sleep(600)
+
 while($true) {
 
     Start-Sleep(90)
